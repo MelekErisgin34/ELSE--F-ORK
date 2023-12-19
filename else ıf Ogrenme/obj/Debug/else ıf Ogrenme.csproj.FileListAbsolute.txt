@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\else ıf Ogrenme\else ıf Ogrenme\bin\Debug\else ıf Ogrenme.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\else ıf Ogrenme\else ıf Ogrenme\bin\Debug\else ıf Ogrenme.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\else ıf Ogrenme\else ıf Ogrenme\bin\Debug\else ıf Ogrenme.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\else ıf Ogrenme\else ıf Ogrenme\obj\Debug\else ıf Ogrenme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\else ıf Ogrenme\else ıf Ogrenme\obj\Debug\else ıf Ogrenme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\else ıf Ogrenme\else ıf Ogrenme\obj\Debug\else_ıf_Ogrenme.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\else ıf Ogrenme\else ıf Ogrenme\obj\Debug\else_ıf_Ogrenme.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\else ıf Ogrenme\else ıf Ogrenme\obj\Debug\else ıf Ogrenme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\else ıf Ogrenme\else ıf Ogrenme\obj\Debug\else ıf Ogrenme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\else ıf Ogrenme\else ıf Ogrenme\obj\Debug\else ıf Ogrenme.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\else ıf Ogrenme\else ıf Ogrenme\obj\Debug\else ıf Ogrenme.pdb
